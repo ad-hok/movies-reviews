@@ -1,0 +1,33 @@
+.navbar-search-form{
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.navbar-search-form .search-group{
+  width: 50%;
+  margin: auto;
+}
+
+.navbar-search-form .search-group input{
+  width: 80%;
+}
+
+.navbar-search-form .search-group button{
+  width: 20%;
+}
+
+@media screen and (max-width: 600px) {
+  .navbar-search-form .search-group{
+    width: 90%;
+    margin: auto;
+  }
+
+  .navbar-search-form .search-group input{
+    width: 70%;
+  }
+
+  .navbar-search-form .search-group button{
+    width: 30%;
+  }
+}
