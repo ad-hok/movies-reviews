@@ -1,4 +1,4 @@
-# weather-miniapp
+# movies-reviews
 A tiny app that shows movies reviews
 
 ## Installation
